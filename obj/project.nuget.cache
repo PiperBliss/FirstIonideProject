@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBabCZZrZDfh84ApPCog3yL5zj/DPo7zMH8sTT89ClYjKqA08OCTeTu+Za/DqDgP83wOmipM2U7ys6EpaVRdKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piper\\OneDrive\\Desktop\\SoftEng\\source1\\firstiodine\\FirstIonideProject\\FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piper\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512",
+    "C:\\Users\\piper\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\piper\\.nuget\\packages\\suave\\2.6.2\\suave.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
